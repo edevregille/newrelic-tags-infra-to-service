@@ -1,0 +1,6 @@
+node_modules/
+.env
+package-lock.json
+entities_tags_added.json
+entities_tags_deleted.json
+.DS_Store
