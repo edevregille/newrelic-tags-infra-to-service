@@ -3,4 +3,5 @@ node_modules/
 package-lock.json
 entities_tags_added.json
 entities_tags_deleted.json
+entities_fetched.json
 .DS_Store
